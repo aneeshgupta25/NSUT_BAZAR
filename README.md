@@ -1,4 +1,4 @@
-# NSUT_BAZAR
+# NSUT BAZAR
 
 To see screenshots of the app, visit -> https://drive.google.com/drive/folders/17LBBgZzs6mJrXbR1ybMNCcQNfzilhdGo?usp=sharing
 
